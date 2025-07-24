@@ -14,3 +14,8 @@ git init| Iniciar repositorio vacio
 rm -r| Forzar a eliminar
 vim| editor
 fit status| estado del repositorio
+git add | agregar archivo
+git commit -m | crear un check point
+git push- | subir a la nube
+git remote -v| verificar conexion con el repo
+
