@@ -10,6 +10,12 @@ cd ruta/de/tu/proyecto
 
 git init
 
+3.Agregar archivos al repositorio
 
+git add .
+
+4.Hacer un primer commit
+
+git commit -m "primer commit"
 
 
