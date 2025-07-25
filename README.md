@@ -46,6 +46,19 @@ Copia la URL (puede ser HTTPS o SSH, por ejemplo: https://github.com/usuario/rep
 Creacion de la tabla de contenido con imagenes
 
 ![texto](./Imgenes/Captura%20de%20pantalla%202025-07-24%20213616.jpg)
+
+Verificacion del estado del repositorio para realizar commit
+
+![texto](./Imgenes/Captura%20de%20pantalla%202025-07-24%20213911.jpg)
+
+Realizacion commit de README.md y carpeta imagenes
+
+![texto](./Imgenes/Captura%20de%20pantalla%202025-07-24%20214201.png)
+
+Realización commit repositorio remoto y repositorio local
+
+![texto](./Imgenes/Captura%20de%20pantalla%202025-07-24%20214715.jpg)
+
 ---
 # Evaluación
 
