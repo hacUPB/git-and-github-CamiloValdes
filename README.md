@@ -40,7 +40,12 @@ Copia la URL (puede ser HTTPS o SSH, por ejemplo: https://github.com/usuario/rep
 [Uso de la consola](./docs/uso_consola.md)|Se presentan los principales comandos usados en git bash|
 [Repositorio remoto](./docs/repositorio_remoto.md)|Procedimiento de como crear un repositorio remoto y como sincronizarlo con el local|
 [Repositorio local](./docs/repositorio_local.md)|Procedimiento de como crear un repositorio local en git bash
- 
+
+## Capturas de pantalla
+
+Creacion de la tabla de contenido con imagenes
+
+![texto](./Imgenes/Captura%20de%20pantalla%202025-07-24%20213616.jpg)
 ---
 # Evaluación
 
