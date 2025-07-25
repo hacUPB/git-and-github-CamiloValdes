@@ -33,6 +33,14 @@ Copia la URL (puede ser HTTPS o SSH, por ejemplo: https://github.com/usuario/rep
 4.Verificar si se tiene acceso al repositorio, para esto en git bash se escribe el siguiente comando:
   git remote -v
 
+## Archivos
+
+|Enlace|Descripción|
+|------|-----------|
+[Uso de la consola](./docs/uso_consola.md)|Se presentan los principales comandos usados en git bash|
+[Repositorio remoto](./docs/repositorio_remoto.md)|Procedimiento de como crear un repositorio remoto y como sincronizarlo con el local|
+[Repositorio local](./docs/repositorio_local.md)|Procedimiento de como crear un repositorio local en git bash
+ 
 ---
 # Evaluación
 
