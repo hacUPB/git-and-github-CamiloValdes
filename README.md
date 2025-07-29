@@ -1,7 +1,64 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Camilo Valdés Montoya
+Id.: 000575648
+
+## Contenido del repositorio 
+
+Este repositorio contiene documentos en los cuales se explica y especifica informacion del curso tal como: Cómo crear un repositorio remoto y sincronizarlo con el repositorio local. Tambien contiene detalles de como crear un repositorio local y varios conceptos como los comandos usados en la consola de uso.
+
+## Pasos necesarios para clonar y ejecutar el proyecto
+
+Copiar la URL del repositorio
+Ve al repositorio en GitHub.
+
+Haz clic en el botón verde "Code".
+
+Copia la URL (puede ser HTTPS o SSH, por ejemplo: https://github.com/usuario/repositorio.git).
+
+1.Abrir Git Bash
+  Hacer clic derecho en la carpeta donde se quiera clonar el proyecto y elige “Git Bash Here”, o abrir Git Bash manualmente.
+
+2.Clonar el repositorio
+  En Git Bash, escribir:
+
+  git clone https://github.com/usuario/repositorio.git
+  Esto descargará el repositorio a una carpeta con el mismo nombre.
+
+3.Entrar en la carpeta del repositorio
+  cd repositorio
+  (Reemplazar repositorio con el nombre real del proyecto que clonaste.)
+
+4.Verificar si se tiene acceso al repositorio, para esto en git bash se escribe el siguiente comando:
+  git remote -v
+
+## Archivos
+
+|Enlace|Descripción|
+|------|-----------|
+[Uso de la consola](./docs/uso_consola.md)|Se presentan los principales comandos usados en git bash|
+[Repositorio remoto](./docs/repositorio_remoto.md)|Procedimiento de como crear un repositorio remoto y como sincronizarlo con el local|
+[Repositorio local](./docs/repositorio_local.md)|Procedimiento de como crear un repositorio local en git bash
+
+## Capturas de pantalla
+
+Creacion de la tabla de contenido con imagenes
+
+![texto](./Imgenes/Captura%20de%20pantalla%202025-07-24%20213616.jpg)
+
+Verificacion del estado del repositorio para realizar commit
+
+![texto](./Imgenes/Captura%20de%20pantalla%202025-07-24%20213911.jpg)
+
+Realizacion commit de README.md y carpeta imagenes
+
+![texto](./Imgenes/Captura%20de%20pantalla%202025-07-24%20214201.png)
+
+Realización commit repositorio remoto y repositorio local
+
+![texto](./Imgenes/Captura%20de%20pantalla%202025-07-24%20214715.jpg)
+
 ---
 # Evaluación
 
